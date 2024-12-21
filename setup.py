@@ -22,8 +22,6 @@ setup(
         "PyMuPDF",
         "regex",
     ],
-  
-    },
     include_package_data=True,              # Automatically include non-Python files specified in MANIFEST.in (optional)
     python_requires=">=3.6",                 # Python version requirements
 )
