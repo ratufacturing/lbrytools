@@ -19,9 +19,7 @@ setup(
     ],
     install_requires=[                      # External dependencies (if any)
         "requests",
-        "PyMuPDF",
         "regex",
-        "numpy",
         "pyexcel",
         "pyexcel-ods",
     ],
