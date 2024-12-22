@@ -22,7 +22,6 @@ setup(
         "PyMuPDF",
         "regex",
         "numpy",
-        "matplotlib",
         "pyexcel",
         "pyexcel-ods",
     ],
