@@ -20,6 +20,8 @@ setup(
     install_requires=[                      # External dependencies (if any)
         "requests",
         "regex",
+        "matplotlib",
+        "numpy",
         "pyexcel",
         "pyexcel-ods",
     ],
