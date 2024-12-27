@@ -18,6 +18,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[                      # External dependencies (if any)
+        "argparse",
         "requests",
         "regex",
         "matplotlib",
